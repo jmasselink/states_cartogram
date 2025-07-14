@@ -1,0 +1,55 @@
+State,Abbreviation,duration,estimate,day_multiplier,days
+Alabama,AL,months,9,30,270
+Alaska,AK,days,,2,2
+Arizona,AZ,weeks,1,7,7
+Arkansas,AR,hours,,0.5,0.5
+California,CA,months,7,30,210
+Colorado,CO,weeks,2,7,14
+Connecticut,CT,days,,3,3
+Delaware,DE,hours,,3,3
+District of Columbia,DC,weeks,4,7,28
+Florida,FL,weeks,,7,7
+Georgia,GA,weeks,,7,7
+Hawaii,HI,---,,0,0
+Idaho,ID,hours,,0.5,0.5
+Illinois,IL,weeks,2,7,14
+Indiana,IN,days,,2,2
+Iowa,IA,days,,2,2
+Kansas,KS,days,,2,2
+Kentucky,KY,days,,2,2
+Louisiana,LA,weeks,,7,7
+Maine,ME,weeks,3,7,21
+Maryland,MD,years,4,365,1460
+Massachusetts,MA,years,20,365,7300
+Michigan,MI,months,2.5,30,75
+Minnesota,MN,weeks,,7,7
+Mississippi,MS,days,,5,5
+Missouri,MO,days,,2,2
+Montana,MT,hours,,0.5,0.5
+Nebraska,NE,hours,,0.5,0.5
+Nevada,NV,weeks,,7,7
+New Hampshire,NH,days,,2,2
+New Jersey,NJ,days,,2,2
+New Mexico,NM,weeks,,7,7
+New York,NY,months,2,30,60
+North Carolina,NC,weeks,3,7,21
+North Dakota,ND,hours,,0.5,0.5
+Ohio,OH,days,,2,2
+Oklahoma,OK,hours,,0.5,0.5
+Oregon,OR,weeks,1.5,7,10.5
+Pennsylvania,PA,weeks,,7,7
+Rhode Island,RI,days,,4,4
+South Carolina,SC,weeks,2,7,14
+South Dakota,SD,days,,2,2
+Tennessee,TN,weeks,1,7,7
+Texas,TX,days,,4,4
+Utah,UT,days,,4,4
+Vermont,VT,days,,4,4
+Virginia,VA,years,4.5,365,1642.5
+Washington,WA,years,8,365,2920
+West Virginia,WV,days,,2,2
+Wisconsin,WI,days,,4,4
+Wyoming,WY,hours,,0.5,0.5
+,,,,,
+,,,,,14179.5
+,,,,,3.19
